@@ -107,7 +107,7 @@ function App() {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/talugula-venkateshwar-reddy-reddy-a95538348/"
+                href="https://www.linkedin.com/in/talugula-venkateshwar-reddy-a95538348/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -962,7 +962,7 @@ function App() {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/talugula-venkateshwar-reddy-reddy-a95538348/"
+          href="https://www.linkedin.com/in/talugula-venkateshwar-reddy-a95538348/"
           target="_blank"
           rel="noreferrer"
         >
